@@ -9,6 +9,10 @@
 * numberOfShells: 2
 * infillDensity: 0
 
+![Crop circle](https://github.com/vinceallenvince/MakerBotCustomProfiles/blob/master/images/cropcircle-woodPLA.jpg "Crop circle")
+
+
+
 #### Waffle Iron
 
 * doRaft: false
