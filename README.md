@@ -9,9 +9,7 @@
 * numberOfShells: 2
 * infillDensity: 0
 
-![Crop circle](http://raw.githubusercontent.com/vinceallenvince/MakerBotCustomProfiles/master/images/cropcircle-woodPLA.jpg "Crop circle")
-
-
+![Crop Circle](http://raw.githubusercontent.com/vinceallenvince/MakerBotCustomProfiles/master/images/cropcircle-woodPLA.jpg "Crop Circle")
 
 #### Waffle Iron
 
@@ -22,6 +20,8 @@
 * numberOfShells: 4
 * infillDensity: 0.5
 
+![Waffle Iron](http://raw.githubusercontent.com/vinceallenvince/MakerBotCustomProfiles/master/images/waffleiron-woodPLA.jpg "Waffle Iron")
+
 #### Dream Catcher
 
 * doRaft: false
@@ -31,6 +31,8 @@
 * numberOfShells: 8
 * infillDensity: 0.1
 
+![Dream Catcher](http://raw.githubusercontent.com/vinceallenvince/MakerBotCustomProfiles/master/images/dreamcatcher-woodPLA.jpg "Dream Catcher")
+
 #### Spiral Cut
 
 * doRaft: false
@@ -39,3 +41,5 @@
 * floorThickness: 0
 * numberOfShells: 100
 * infillDensity: 0
+
+![Spiral Cut](http://raw.githubusercontent.com/vinceallenvince/MakerBotCustomProfiles/master/images/spiralcut-woodPLA.jpg "Spiral Cut")
