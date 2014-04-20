@@ -9,7 +9,7 @@
 * numberOfShells: 2
 * infillDensity: 0
 
-![Crop circle](https://github.com/vinceallenvince/MakerBotCustomProfiles/blob/master/images/cropcircle-woodPLA.jpg "Crop circle")
+![Crop circle](http://raw.githubusercontent.com/vinceallenvince/MakerBotCustomProfiles/master/images/cropcircle-woodPLA.jpg "Crop circle")
 
 
 
