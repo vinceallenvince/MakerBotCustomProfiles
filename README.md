@@ -1,6 +1,10 @@
 ## MakerBot Custom Profiles
 
-### Sketchup file
+The following images represent experiments using MakerBot custom profiles to print different versions of the same object. You can access custom profiles in MakerWare by clicking Make -> Create Profile. Selecting a base profile will launch a text editor which will display tons of [Slicer Options](http://www.makerbot.com/support/makerware/documentation/slicer/) you can tweak.
+
+If you remove the roof and floor entirely, you can have fun with different interior patterns by simply adjusting the 'numberOfShells' and 'infillDensity'. See the settings below for examples. I used [Wood PLA](http://www.makergeeks.com/wo3dprfild3.html) to emphasize the 'grain' effects you get when playing with the numberOfShells.
+
+#### Sketchup file
 
 The original 3d file was exported from Sketchup as an .stl file for MakerWare.
 
