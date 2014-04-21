@@ -4,6 +4,8 @@ The MakerBot 3d prints below use [custom profiles](http://www.makerbot.com/suppo
 
 If you remove the roof and floor entirely, you can have fun with different interior patterns by simply adjusting the 'numberOfShells' and 'infillDensity'. See the settings below for examples. I used [Wood PLA](http://www.makergeeks.com/wo3dprfild3.html) to emphasize the 'grain' effects you get when playing with the numberOfShells.
 
+To install, copy the profiles from the 'Profiles' folder to your 'Things/Profiles' folder.
+
 #### Sketchup file
 
 The original 3d file was exported from Sketchup as an .stl file for MakerWare.
