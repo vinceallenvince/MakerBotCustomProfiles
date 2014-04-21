@@ -1,5 +1,7 @@
 ## MakerBot Custom Profiles
 
+![Digital file](http://raw.githubusercontent.com/vinceallenvince/MakerBotCustomProfiles/master/images/torus30rad_10hole.png "Digital file")
+
 #### Crop Circle
 
 * doRaft: false
