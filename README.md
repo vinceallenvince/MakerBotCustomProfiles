@@ -1,5 +1,13 @@
 ## MakerBot Custom Profiles
 
+### Sketchup file
+
+The original 3d file was exported from Sketchup as an .stl file for MakerWare.
+
+* outer diameter: 60mm
+* inner diameter: 20mm
+* height: 3mm
+
 ![Digital file](http://raw.githubusercontent.com/vinceallenvince/MakerBotCustomProfiles/master/images/torus30rad_10hole.png "Digital file")
 
 #### Crop Circle
